@@ -27,7 +27,7 @@ server <- function(input, output) {
     
     output$mymap <- renderLeaflet(
         leaflet() %>% 
-            setView(lng = -64.1888, lat = -31.4201, zoom = 7) %>%
+            setView(lng = -64.1888, lat = -31.4201, zoom = 6) %>%
             addTiles() %>%
             addCircleMarkers(
                 data = locality1,

@@ -24,7 +24,9 @@ locality1$overall_sc <- as.numeric(locality1$overall_sc)
 pal1 <- colorNumeric("Blues", domain = locality1$overall_sc)
 
 labels <- sprintf(
-    "<strong>%s</strong><br/> Score: %s</strong><br/>%s households",
+    "<strong>%s
+    </strong><br/>Score: %s
+    </strong><br/>%s households",
     locality1$localidad, locality1$overall_sc, locality1$hogares
 ) %>% lapply(htmltools::HTML)
 

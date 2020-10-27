@@ -1,0 +1,453 @@
+﻿departamento,comuna,contexto01,contexto03,contexto06,contexto08,contexto10,contexto11,contexto12,contexto13,contexto14,contexto15,contexto16,contexto17,contexto21,contexto22
+Calamuchita, Amboy,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, Calmayo,4,0,0,0,0,1,0,1,0,0,0,0,0,1
+Calamuchita, Cañada Del Sauce,4,0,0,0,0,1,0,1,0,0,0,0,0,0
+Calamuchita, Embalse,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, La Cruz,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, La Cumbrecita,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Calamuchita, Las Bajadas,4,0,0,1,0,0,0,0,0,0,0,0,0,0
+Calamuchita, Las Caleras,4,0,0,0,0,0,0,1,0,0,0,0,0,0
+Calamuchita, Los Condores,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, Los Molinos,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, Los Reartes,4,0,0,0,0,0,0,0,0,1,1,0,0,0
+Calamuchita, Lutti,4,0,0,0,0,1,0,0,0,0,0,0,0,0
+Calamuchita, Rio De Los Sauces,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, San Agustin,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, San Ignacio,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, Santa Rosa De Calamuchita,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Calamuchita, Segunda Usina,4,0,0,0,0,0,0,1,0,1,1,0,0,0
+Calamuchita, Villa Amancay,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, Villa Ciudad Parque Los Reartes,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Calamuchita, Villa Del Dique,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calamuchita, Villa General Belgrano,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Calamuchita, Villa Quillinzo,4,0,0,0,0,1,0,0,0,0,0,0,0,0
+Calamuchita, Villa Rumipal,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Calamuchita, Villa Yacanto,4,0,0,0,0,0,0,0,0,1,1,0,0,0
+Calamuchita, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Capital, Cordoba,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+Colon, Agua De Oro,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Colon, Colonia Caroya,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colon, Colonia Tirolesa,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colon, Colonia Vicente Agüero,4,0,0,0,0,1,0,0,0,1,0,0,0,0
+Colon, El Manzano,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colon, Estacion General Paz,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colon, Estacion Juarez Celman,4,0,0,0,0,0,1,0,0,0,0,1,0,0
+Colon, Jesus Maria,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Colon, La Calera,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colon, La Granja,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Colon, Malvinas Argentinas,4,0,0,1,0,0,1,0,0,0,0,1,0,0
+Colon, Mendiolaza,4,0,1,0,1,0,0,0,0,0,0,0,0,0
+Colon, Mi Granja,4,0,0,0,0,0,0,0,0,1,0,1,0,0
+Colon, Rio Ceballos,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Colon, Saldan,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Colon, Salsipuedes,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Colon, Tinoco,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colon, Unquillo,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Colon, Villa Allende,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Colon, Villa Cerro Azul,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Colon, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Cruz Del Eje, Alto De Los Quebrachos,4,0,0,1,0,0,0,1,0,0,0,0,1,0
+Cruz Del Eje, Bañado De Soto,4,1,0,0,0,0,0,0,0,0,0,1,1,0
+Cruz Del Eje, Cruz De Caña,4,0,0,0,0,0,0,1,0,0,0,0,1,0
+Cruz Del Eje, Cruz Del Eje,4,0,0,0,0,0,0,0,0,0,0,0,1,0
+Cruz Del Eje, El Brete,4,0,0,1,0,0,0,0,0,0,0,1,1,0
+Cruz Del Eje, Guanaco Muerto,4,0,0,0,0,0,0,1,0,0,1,0,1,0
+Cruz Del Eje, La Batea,4,0,0,0,0,0,0,0,0,0,0,0,1,0
+Cruz Del Eje, La Higuera,4,0,0,0,0,0,0,1,0,0,0,0,1,0
+Cruz Del Eje, Las Cañadas,4,1,0,0,0,0,1,1,0,0,1,1,1,0
+Cruz Del Eje, Las Playas,4,0,0,1,0,0,0,0,0,0,0,0,1,0
+Cruz Del Eje, Los Chañaritos (C. D. E.),4,0,0,1,0,0,0,0,0,0,0,0,1,0
+Cruz Del Eje, Media Naranja,4,0,0,0,0,0,1,0,0,0,0,1,1,0
+Cruz Del Eje, Paso Viejo,0,1,0,0,0,0,1,1,0,0,0,1,1,0
+Cruz Del Eje, San Marcos Sierras,4,0,0,0,1,0,0,0,0,1,0,0,1,0
+Cruz Del Eje, Serrezuela,4,0,0,0,0,0,0,1,0,0,0,1,1,0
+Cruz Del Eje, Tuclame,0,1,0,0,0,0,1,1,0,0,0,1,1,0
+Cruz Del Eje, Villa De Soto,4,0,0,0,0,0,0,0,0,0,0,0,1,0
+Cruz Del Eje, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+General Roca, Buchardo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Del Campillo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Huinca Renanco,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Italo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Jovita,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Mattaldi,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Nicolas Bruzzone,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Onagoity,4,0,1,0,0,1,0,0,0,0,1,0,0,0
+General Roca, Pincen,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+General Roca, Ranqueles,4,1,0,0,0,0,1,0,0,0,0,0,0,1
+General Roca, Villa Huidobro,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Villa Sarmiento (G. R.),4,0,0,0,0,0,1,0,0,0,0,1,0,0
+General Roca, Villa Valeria,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+General Roca, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Gral.San Martin, Arroyo Algodon,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Arroyo Cabral,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Ausonia,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Chazon,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Etruria,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Gral.San Martin, La Laguna,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, La Palestina,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+Gral.San Martin, La Playosa,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Luca,4,0,0,0,0,0,0,1,0,0,0,0,0,0
+Gral.San Martin, Pasco,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Silvio Pellico,4,0,1,0,0,1,0,0,0,0,0,0,0,0
+Gral.San Martin, Ticino,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Tio Pujio,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Villa Maria,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Villa Nueva,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gral.San Martin, Zona Rural No Comprendida En Municipios O Comunas,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ischilin, Avellaneda,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ischilin, Cañada De Rio Pinto,4,0,0,0,0,1,0,1,0,0,0,0,0,1
+Ischilin, Chuña,4,0,0,0,0,0,1,1,1,0,0,1,0,0
+Ischilin, Copacabana,4,0,0,0,0,0,1,0,1,0,0,1,0,0
+Ischilin, Dean Funes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ischilin, Los Pozos,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ischilin, Olivares De San Nicolas,4,0,0,1,0,0,1,0,0,0,0,0,0,0
+Ischilin, Quilino,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+Ischilin, Villa Gutierrez,4,0,0,1,0,0,0,1,0,0,0,1,0,0
+Ischilin, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Juarez Celman, Alejandro Roca,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Assunta,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Bengolea,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Carnerillo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Charras,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, El Rastreador,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+Juarez Celman, General Cabrera,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, General Deheza,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Huanchilla,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+Juarez Celman, La Carlota,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Los Cisnes,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Olaeta,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Pacheco De Melo,4,0,0,0,0,0,0,0,0,0,1,0,0,0
+Juarez Celman, Paso Del Durazno,4,0,0,0,0,0,0,0,1,0,1,0,0,0
+Juarez Celman, Reduccion,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Santa Eufemia,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Ucacha,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juarez Celman, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Marcos Juarez, Alejo Ledesma,4,0,0,0,0,0,0,0,1,0,0,0,0,0
+Marcos Juarez, Arias,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcos Juarez, Camilo Aldao,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+Marcos Juarez, Capitan General Bernardo O Higgins,4,0,0,0,0,0,0,0,1,1,0,1,0,0
+Marcos Juarez, Cavanagh,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+Marcos Juarez, Colonia Barge,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcos Juarez, Colonia Italiana,4,0,1,0,0,0,0,0,1,0,1,0,0,0
+Marcos Juarez, Corral De Bustos,4,0,1,0,0,1,0,0,0,0,0,0,0,1
+Marcos Juarez, Cruz Alta,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcos Juarez, General Baldissera,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marcos Juarez, General Roca,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+Marcos Juarez, Guatimozin,4,0,1,0,0,1,0,0,0,0,0,0,0,1
+Marcos Juarez, Inriville,4,0,1,0,0,1,0,0,0,0,0,0,0,1
+Marcos Juarez, Isla Verde,4,0,0,0,0,0,0,0,1,0,0,0,0,0
+Marcos Juarez, Leones,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcos Juarez, Los Surgentes,4,0,1,0,0,1,0,0,1,0,1,0,0,1
+Marcos Juarez, Marcos Juarez,4,0,1,0,1,0,0,0,0,0,0,0,0,0
+Marcos Juarez, Monte Buey,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marcos Juarez, Saira,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+Marcos Juarez, Saladillo,4,0,0,0,0,0,0,0,0,1,0,0,0,1
+Marcos Juarez, Villa Elisa,4,0,0,0,0,0,1,0,1,0,1,0,0,0
+Marcos Juarez, Zona Rural No Comprendida En Municipios O Comunas,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Minas, Cienaga Del Coro,4,0,0,0,0,1,0,1,0,0,0,0,1,1
+Minas, El Chacho,4,0,0,0,0,0,1,1,0,0,0,1,1,0
+Minas, Estancia De Guadalupe,4,1,0,0,0,0,0,0,0,0,0,0,1,0
+Minas, Guasapampa,4,1,0,0,0,0,0,0,0,0,0,0,1,0
+Minas, La Playa,4,0,0,0,0,0,1,1,0,0,0,1,1,0
+Minas, San Carlos Minas,4,0,0,0,0,0,0,0,0,0,0,0,1,0
+Minas, Talaini,4,0,0,1,0,0,0,0,1,0,0,0,1,0
+Minas, Tosno,4,0,0,1,0,0,0,1,1,0,1,0,1,1
+Minas, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,1,0,1,1,0,0,0,1,1
+Pocho, Chancani,4,0,0,1,0,0,0,0,0,0,0,0,1,0
+Pocho, Las Palmas,4,0,0,0,0,0,0,0,0,0,0,0,1,1
+Pocho, Los Talares,4,0,0,0,0,0,0,1,0,0,1,0,1,0
+Pocho, Salsacate,4,0,0,0,0,0,0,0,0,0,0,0,1,0
+Pocho, San Geronimo,4,1,0,1,0,0,0,0,0,0,0,1,1,0
+Pocho, Tala Cañada,4,0,0,0,0,0,0,1,0,0,0,0,1,1
+Pocho, Villa De Pocho,4,0,0,1,0,1,0,1,1,0,1,0,1,0
+Pocho, Zona Rural No Comprendida En Municipios O Comunas,0,1,0,1,0,0,0,1,0,0,0,0,1,0
+Pte.R.S. Peña, General Levalle,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pte.R.S. Peña, La Cesira,4,0,0,0,0,0,0,0,1,0,1,0,0,0
+Pte.R.S. Peña, Laboulaye,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pte.R.S. Peña, Leguizamon,4,0,0,0,0,0,1,0,0,0,0,1,0,0
+Pte.R.S. Peña, Melo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pte.R.S. Peña, Riobamba,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pte.R.S. Peña, Rosales,4,0,0,0,0,0,0,0,1,0,1,0,0,0
+Pte.R.S. Peña, San Joaquin,4,0,0,0,0,0,0,0,1,0,1,0,0,1
+Pte.R.S. Peña, Serrano,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pte.R.S. Peña, Villa Rossi,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pte.R.S. Peña, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Punilla, Bialet Masse,4,0,0,0,1,0,0,0,1,0,0,0,0,0
+Punilla, Cabalango,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punilla, Capilla Del Monte,4,0,0,0,1,0,0,0,1,1,0,0,0,0
+Punilla, Casa Grande,4,0,0,1,1,0,0,0,0,1,0,0,0,0
+Punilla, Charbonier,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Punilla, Cosquin,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Punilla, Cuesta Blanca,4,0,0,0,1,0,0,0,1,0,0,0,0,0
+Punilla, Estancia Vieja,4,0,0,0,0,0,0,0,1,1,1,1,0,0
+Punilla, Huerta Grande,4,0,0,0,0,0,0,0,1,0,0,0,0,0
+Punilla, La Cumbre,4,0,0,0,0,0,0,0,1,1,0,0,0,0
+Punilla, La Falda,4,0,0,0,1,1,0,0,0,0,0,0,0,0
+Punilla, Los Cocos,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Punilla, Mayu Sumaj,4,0,0,0,0,0,0,0,1,0,0,0,0,0
+Punilla, San Antonio De Arredondo,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Punilla, San Esteban,4,0,0,0,0,0,0,0,1,1,1,0,0,0
+Punilla, San Roque,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Punilla, Santa Maria De Punilla,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Punilla, Tala Huasi,4,0,0,0,1,0,0,0,1,1,1,0,0,1
+Punilla, Tanti,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Punilla, Valle Hermoso,4,0,0,0,0,0,0,0,1,0,1,0,0,0
+Punilla, Villa Carlos Paz,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Punilla, Villa Giardino,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Punilla, Villa Parque Siquiman,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Punilla, Villa Rio Icho Cruz,4,0,0,0,1,0,0,0,1,0,1,0,0,0
+Punilla, Villa Santa Cruz Del Lago,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Punilla, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+Rio Cuarto, Achiras,4,0,0,0,0,1,0,0,1,0,0,0,0,1
+Rio Cuarto, Adelia Maria,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Alcira,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+Rio Cuarto, Alpa Corral,4,0,0,0,0,0,0,0,1,1,1,0,0,0
+Rio Cuarto, Berrotaran,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Bulnes,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Rio Cuarto, Chajan,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Rio Cuarto, Chucul,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Coronel Baigorria,4,0,0,0,0,0,0,0,1,0,1,0,0,0
+Rio Cuarto, Coronel Moldes,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Elena,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+Rio Cuarto, La Carolina El Potosi,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, La Cautiva,4,0,0,0,0,0,0,0,1,0,0,0,0,0
+Rio Cuarto, Las Acequias,4,0,0,0,0,0,0,0,1,0,1,0,0,0
+Rio Cuarto, Las Albahacas,4,0,0,0,0,1,0,0,0,0,0,0,0,0
+Rio Cuarto, Las Higueras,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Las Peñas Sud,4,0,0,0,0,0,0,0,0,1,1,0,0,0
+Rio Cuarto, Las Vertientes,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Malena,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Monte De Los Gauchos,4,0,1,0,0,0,0,0,1,0,1,0,0,0
+Rio Cuarto, Rio Cuarto,4,0,1,0,1,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Sampacho,4,0,0,0,0,1,0,0,0,0,0,0,0,0
+Rio Cuarto, San Basilio,4,0,1,0,0,1,0,0,0,0,0,0,0,1
+Rio Cuarto, Santa Catalina,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Suco,4,0,0,0,0,0,0,1,0,0,0,0,0,1
+Rio Cuarto, Tosquita,4,0,0,0,0,0,0,0,1,0,1,0,0,0
+Rio Cuarto, Vicuña Mackenna,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Villa El Chacay,4,0,0,0,1,0,0,0,0,0,1,0,0,1
+Rio Cuarto, Washington,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Cuarto, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, Atahona,4,0,0,0,0,0,1,1,1,0,0,0,0,0
+Rio Primero, Cañada De Machado,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, Capilla De Los Remedios,4,0,0,1,0,0,0,1,0,0,0,0,0,0
+Rio Primero, Chalacea,4,0,0,0,0,0,0,0,1,0,0,0,0,0
+Rio Primero, Colonia Las Cuatro Esquinas,4,0,0,0,0,0,1,0,0,0,1,0,0,1
+Rio Primero, Comechingones,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, Diego De Rojas,4,0,0,0,0,0,1,0,1,1,0,1,0,0
+Rio Primero, El Crispin,4,0,0,1,0,0,0,1,0,0,0,0,0,0
+Rio Primero, Esquina,4,0,0,0,0,0,0,1,0,1,0,0,0,1
+Rio Primero, Kilometro 658,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, La Para,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, La Posta,4,0,0,0,0,0,0,0,1,0,0,1,0,0
+Rio Primero, La Puerta,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, La Quinta,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rio Primero, Las Gramillas,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rio Primero, Las Saladas,4,1,0,0,0,1,0,0,0,0,0,0,0,0
+Rio Primero, Maquinista Gallini,4,0,0,1,0,0,0,0,1,0,1,0,0,0
+Rio Primero, Monte Cristo,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Rio Primero, Obispo Trejo,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+Rio Primero, Piquillin,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, Plaza De Mercedes,4,0,0,0,0,0,0,1,0,0,0,0,0,0
+Rio Primero, Rio Primero,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, Sagrada Familia,4,0,0,0,0,1,0,1,0,0,0,0,0,0
+Rio Primero, Santa Rosa De Rio Primero,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, Villa Fontana,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Primero, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Rio Seco, Cerro Colorado,4,0,0,0,0,0,0,1,0,0,1,0,1,0
+Rio Seco, Chañar Viejo,4,0,0,0,0,0,0,0,1,0,0,0,1,0
+Rio Seco, Eufracio Loza,4,0,0,0,0,0,0,1,0,0,1,0,1,0
+Rio Seco, Gutemberg,4,0,0,0,0,0,1,1,1,0,0,1,1,0
+Rio Seco, La Rinconada,4,0,0,0,0,0,1,0,1,0,0,1,1,0
+Rio Seco, Los Hoyos,4,0,0,0,0,0,0,1,0,0,0,1,1,0
+Rio Seco, Puesto De Castro,4,0,0,0,0,0,1,0,1,0,0,1,1,0
+Rio Seco, Rayo Cortado,4,0,0,0,0,0,0,1,0,0,0,0,1,0
+Rio Seco, Santa Elena,4,0,0,1,0,0,0,1,0,0,0,0,1,0
+Rio Seco, Sebastian Elcano,4,0,0,0,0,0,1,0,1,0,0,0,1,0
+Rio Seco, Villa Candelaria Norte,4,0,0,1,0,0,0,1,1,0,1,0,1,0
+Rio Seco, Villa De Maria,4,0,0,0,0,0,1,0,1,0,0,1,1,0
+Rio Seco, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+Rio Segundo, Calchin,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Calchin Oeste,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Capilla Del Carmen,4,0,0,0,0,0,0,0,0,0,0,1,0,0
+Rio Segundo, Carrilobo,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+Rio Segundo, Colazo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Colonia Videla,4,0,0,1,0,0,1,0,1,0,0,1,0,0
+Rio Segundo, Costasacate,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Impira,4,0,0,1,0,1,0,1,0,0,0,0,0,1
+Rio Segundo, Laguna Larga,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Las Junturas,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Los Chañaritos,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Luque,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Manfredi,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Matorrales,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Oncativo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Pilar,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Pozo Del Molle,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Rincon,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+Rio Segundo, Rio Segundo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Santiago Temple,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Villa Del Rosario,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rio Segundo, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Alberto, Ambul,4,0,0,0,0,1,0,1,0,0,0,0,1,0
+San Alberto, Arroyo Los Patos,4,1,0,0,0,0,0,0,0,0,0,0,1,0
+San Alberto, Las Calles,4,1,0,0,0,0,0,0,0,1,0,0,1,0
+San Alberto, Las Rabonas,4,0,0,0,0,0,0,1,0,0,0,0,1,0
+San Alberto, Mina Clavero,4,0,0,0,1,0,0,0,0,0,0,0,1,0
+San Alberto, Nono,4,0,0,0,0,0,0,0,0,0,0,0,1,0
+San Alberto, Panaholma,4,1,0,1,0,0,0,0,0,0,1,0,1,0
+San Alberto, San Lorenzo,4,0,0,0,0,0,0,0,0,0,0,0,1,0
+San Alberto, San Pedro,4,0,0,0,0,0,0,0,1,0,0,1,1,0
+San Alberto, San Vicente,4,0,0,0,0,0,1,0,0,0,0,1,1,0
+San Alberto, Sauce Arriba,4,1,0,1,0,0,1,0,0,0,0,1,1,0
+San Alberto, Villa Cura Brochero,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+San Alberto, Villa Sarmiento (S. A.),4,0,0,0,0,0,0,0,1,0,0,0,1,0
+San Alberto, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+San Javier, Conlara,4,0,0,1,0,0,1,0,1,0,0,1,0,0
+San Javier, La Paz,4,1,0,0,0,0,0,0,0,1,0,0,0,0
+San Javier, La Poblacion,4,1,0,1,0,0,0,0,0,1,0,1,0,0
+San Javier, Las Tapias,4,1,0,0,0,0,0,0,0,0,0,1,0,0
+San Javier, Los Cerrillos,4,1,0,0,0,0,1,0,1,0,0,1,0,0
+San Javier, Los Hornillos,4,1,0,0,1,0,0,0,0,1,0,0,0,0
+San Javier, Luyaba,4,1,0,1,0,0,0,1,0,0,0,1,0,0
+San Javier, San Javier Y Yacanto,4,1,0,0,0,0,0,0,1,0,0,0,0,0
+San Javier, San Jose,4,1,0,1,0,0,0,1,1,0,0,1,0,0
+San Javier, Villa De Las Rosas,4,1,0,0,1,0,0,0,0,1,0,0,0,0
+San Javier, Villa Dolores,4,0,0,0,0,0,0,0,1,0,0,0,0,0
+San Javier, Zona Rural No Comprendida En Municipios O Comunas,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Alicia,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+San Justo, Altos De Chipion,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+San Justo, Arroyito,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Balnearia,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Brinkmann,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Colonia Anita,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Colonia Iturraspe,4,1,0,0,0,1,0,0,0,0,0,0,0,0
+San Justo, Colonia Las Pichanas,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+San Justo, Colonia Marina,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+San Justo, Colonia Prosperidad,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Colonia San Bartolome,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Colonia San Pedro,4,1,0,1,0,0,0,0,0,0,1,0,0,0
+San Justo, Colonia Valtelina,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Colonia Vignaud,4,0,1,0,0,0,1,0,0,0,1,0,0,0
+San Justo, Devoto,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+San Justo, El Arañado,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, El Fortin,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, El Tio,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Freyre,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+San Justo, La Francia,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, La Paquita,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, La Tordilla,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Las Varas,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+San Justo, Las Varillas,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Marull,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Miramar,4,0,0,0,0,0,0,0,0,1,0,0,0,1
+San Justo, Morteros,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Plaza Luxardo,4,1,0,0,0,0,0,0,0,1,1,0,0,0
+San Justo, Porteña,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Quebracho Herrado,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Sacanta,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, San Francisco,4,0,1,0,1,0,0,0,0,0,0,0,0,0
+San Justo, Saturnino Maria Laspiur,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+San Justo, Seeber,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Toro Pujio,4,0,0,0,0,0,0,0,0,0,1,0,0,0
+San Justo, Transito,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Villa Concepcion Del Tio,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Justo, Villa San Esteban,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+San Justo, Zona Rural No Comprendida En Municipios O Comunas,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Maria, Alta Gracia,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Maria, Anisacate,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Santa Maria, Bouwer,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Santa Maria, Despeñaderos,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Maria, Dique Chico,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Maria, Falda Del Carmen,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Santa Maria, La Paisanita,4,0,0,1,0,0,0,1,1,1,1,0,0,0
+Santa Maria, La Rancherita,4,0,0,1,1,0,0,0,0,0,1,0,0,0
+Santa Maria, La Serranita,4,0,0,0,1,1,0,0,0,1,1,0,0,0
+Santa Maria, Los Cedros,4,0,0,1,0,0,1,0,0,0,0,0,0,0
+Santa Maria, Lozada,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Maria, Malagueño,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Maria, Monte Ralo,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Maria, Potrero De Garay,4,1,0,0,0,0,0,0,0,1,1,0,0,0
+Santa Maria, Rafael Garcia,4,0,0,1,0,0,0,0,0,0,0,0,0,0
+Santa Maria, San Clemente,4,0,0,0,0,0,0,0,0,0,1,1,0,0
+Santa Maria, Toledo,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Santa Maria, Valle De Anisacate,4,0,0,1,1,0,0,0,0,0,0,0,0,0
+Santa Maria, Villa Ciudad De America,4,0,0,0,0,0,0,0,0,1,1,0,0,0
+Santa Maria, Villa Del Prado,4,0,0,1,0,0,1,0,0,0,0,1,0,0
+Santa Maria, Villa La Bolsa,4,0,0,0,1,0,0,0,0,1,0,0,0,0
+Santa Maria, Villa Los Aromos,4,0,1,0,1,0,0,0,0,1,1,0,0,0
+Santa Maria, Villa Parque Santa Ana,4,0,0,1,0,0,0,0,0,0,0,1,0,0
+Santa Maria, Villa San Isidro,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Santa Maria, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Sobremonte, Caminiaga,4,0,0,0,0,1,0,1,1,0,1,0,1,0
+Sobremonte, Chuña Huasi,4,0,0,1,0,0,0,0,1,0,0,0,1,0
+Sobremonte, Pozo Nuevo,4,0,0,1,0,0,0,1,0,0,1,1,1,0
+Sobremonte, San Francisco Del Chañar,4,0,0,1,0,0,0,0,1,0,0,0,1,0
+Sobremonte, Zona Rural No Comprendida En Municipios O Comunas,0,1,0,0,0,1,0,0,0,0,1,0,1,0
+Tercero Arriba, Almafuerte,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Tercero Arriba, Colonia Almada,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Corralito,4,0,0,1,0,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Dalmacio Velez,4,0,0,0,0,0,0,0,0,1,0,0,0,0
+Tercero Arriba, General Fotheringham,4,0,1,0,0,0,0,0,0,1,0,0,0,0
+Tercero Arriba, Hernando,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+Tercero Arriba, James Craik,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Las Isletillas,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Las Perdices,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Los Zorros,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Oliva,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Pampayasta Norte,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Pampayasta Sud,4,0,0,0,0,1,0,0,0,0,0,0,0,1
+Tercero Arriba, Punta Del Agua,4,0,0,1,0,0,0,0,0,0,0,0,0,1
+Tercero Arriba, Rio Tercero,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Tancacha,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Tercero Arriba, Villa Ascasubi,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tercero Arriba, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Totoral, Cañada De Luque,4,0,0,0,0,0,0,0,1,0,0,1,0,0
+Totoral, Candelaria Sud,4,0,0,1,0,0,0,1,0,0,0,0,0,0
+Totoral, Capilla Del Siton,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+Totoral, La Pampa,4,0,0,1,0,0,1,0,0,0,0,1,0,0
+Totoral, Las Peñas,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Totoral, Los Mistoles,4,0,0,0,0,0,0,0,0,0,0,1,0,0
+Totoral, Sarmiento,4,0,0,1,0,0,1,0,0,0,0,1,0,0
+Totoral, Simbolar,4,1,0,0,0,0,0,0,0,0,0,1,0,0
+Totoral, Sinsacate,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Totoral, Villa Del Totoral,4,0,0,1,0,0,0,0,0,0,0,0,0,0
+Totoral, Zona Rural No Comprendida En Municipios O Comunas,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Tulumba, Churqui Cañada,4,0,0,0,0,1,0,1,0,0,0,0,1,1
+Tulumba, El Rodeo,4,1,0,0,0,0,0,0,0,0,0,1,1,0
+Tulumba, Las Arrias,4,1,0,0,0,0,0,1,0,0,0,1,1,0
+Tulumba, Lucio Victorio Mansilla,4,1,0,1,0,0,1,1,1,0,0,1,1,0
+Tulumba, Rosario Del Saladillo,4,0,0,0,0,0,0,1,0,0,0,0,1,1
+Tulumba, San Jose De La Dormida,4,1,0,0,0,0,0,1,1,0,0,0,1,0
+Tulumba, San Jose De Las Salinas,4,0,0,0,0,0,1,0,0,0,0,1,1,0
+Tulumba, San Pedro Norte,4,1,0,0,0,0,0,1,1,0,0,0,1,0
+Tulumba, Villa Tulumba,4,1,0,0,0,0,0,0,1,0,0,1,1,1
+Tulumba, Zona Rural No Comprendida En Municipios O Comunas,0,1,0,1,0,1,0,1,0,0,0,0,1,0
+Union, Aldea Santa Maria,4,0,0,0,0,0,1,1,0,0,0,0,0,1
+Union, Alto Alegre,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union, Ana Zumaran,4,0,1,0,0,0,1,0,0,0,1,0,0,0
+Union, Ballesteros,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union, Ballesteros Sud,4,0,0,0,0,0,0,0,0,1,0,1,0,0
+Union, Bell Ville,4,0,0,0,1,0,0,0,0,0,0,0,0,0
+Union, Benjamin Gould,4,0,0,1,0,0,1,1,1,0,0,0,0,0
+Union, Canals,4,1,0,0,0,0,0,0,1,0,0,0,0,0
+Union, Chilibroste,4,0,0,0,0,0,0,0,0,0,0,1,0,0
+Union, Cintra,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+Union, Colonia Bismarck,4,0,0,0,0,0,1,0,0,0,0,0,0,0
+Union, Colonia Bremen,4,1,0,1,0,0,1,0,1,1,1,0,0,1
+Union, Idiazabal,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Union, Justiniano Posse,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+Union, Laborde,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+Union, Monte Leña,4,0,0,1,0,0,1,0,0,1,0,1,0,0
+Union, Monte Maiz,4,0,0,0,0,0,0,1,0,0,0,0,0,0
+Union, Morrison,4,0,0,0,0,0,0,1,0,0,0,0,0,0
+Union, Noetinger,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+Union, Ordoñez,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+Union, Pascanas,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union, Pueblo Italiano,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+Union, San Antonio De Litin,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Union, San Marcos Sud,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Union, Viamonte,4,0,0,1,0,0,0,1,1,0,0,0,0,1
+Union, Villa Los Patos,4,0,1,0,1,1,0,1,0,0,0,0,0,1
+Union, Wenceslao Escalante,0,0,1,1,1,1,0,1,1,1,0,0,0,1
+Union, Zona Rural No Comprendida En Municipios O Comunas,#NUM!,1,1,1,1,1,1,1,1,1,1,1,0,1
