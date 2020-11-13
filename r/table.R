@@ -95,10 +95,12 @@ scores_clean <- scores_clean %>%
 
 table <- scores_clean %>%
   select(departamento, comuna, score, c_sum, e_sum, m_sum) %>%
-  formattable(list(
-    score = normalize_bar(color = "pink"),
+  formattable(
+    col.names = c("Departamento", "Comuna", "Puntuación", "Contexto", "Epidemiologicia", "Mitigación"),
+    list(
+    score = color_tile("transparent", "lightpink"),
     c_sum = color_tile("transparent", "#fc8d59"),
-    e_sum = color_tile("transparent", "#67a9cf"),
+    e_sum = normalize_bar("#67a9cf"),
     m_sum = color_tile("transparent", "#fc8d59"),
     comuna = formatter("span", style = ~ style(color = "black", font.weight = "bold")),
     align = c("l", "l", rep("r", NCOL(scores_clean) - 2))))
