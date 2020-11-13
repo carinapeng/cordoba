@@ -3,12 +3,14 @@ library(janitor)
 library(formattable)
 library(magrittr)
 library(dplyr)
+library(tidyr)
 
 setwd("/Users/carinapeng/PAHO : WHO/cordoba")
 
 # Contexto results provided by Cordoba
 contexto_results <- read.csv("data/ARG_contexto_values.csv")
 
+# Clean data
 contexto_results_clean <- contexto_results %>%
   row_to_names(row_number = 2) %>%
   clean_names()
@@ -66,32 +68,44 @@ scores_clean <- scores %>%
          score
          )
 
+# Calculate sub-category sums
+cnames <- tolower(colnames(scores_clean))
+scores_clean <- scores_clean %>%
+  mutate(c_sum = rowSums(scores_clean[, grep("contexto", cnames)])) %>%
+  mutate(e_sum = rowSums(scores_clean[, grep("epidemiologia", cnames)])) %>%
+  mutate(m_sum = rowSums(scores_clean[, grep("mitigacion", cnames)]))
+
+
 # Join datasets
-scores_clean$comuna <- scores_clean$comuna %>%
-  toupper()
+# scores_clean$comuna <- scores_clean$comuna %>%
+#   toupper()
+# 
+# joined <- inner_join(scores_clean, contexto_results_clean1,
+#                      by = c("comuna" = "municipio_o_comuna"))
+# 
+# df <- joined %>%
+#   select(departamento, comuna, score, hogares, poblacion_total)
+# 
+# df$hogares <- gsub(",","",df$hogares)
+# df$hogares <- as.numeric(df$hogares)
+# 
+# 
+# df$hogares <- comma(df$hogares, format = "f",
+#       big.mark = ",")
 
-contexto_results_clean1 <- contexto_results_clean %>%
-  select(municipio_o_comuna, hogares, poblacion_total)
+table <- scores_clean %>%
+  select(departamento, comuna, score, c_sum, e_sum, m_sum) %>%
+  formattable(list(
+    score = normalize_bar(color = "pink"),
+    c_sum = color_tile("transparent", "#fc8d59"),
+    e_sum = color_tile("transparent", "#67a9cf"),
+    m_sum = color_tile("transparent", "#fc8d59"),
+    comuna = formatter("span", style = ~ style(color = "black", font.weight = "bold")),
+    align = c("l", "l", rep("r", NCOL(scores_clean) - 2))))
 
-contexto_results_clean1$hogares <- as.numeric(gsub(",", "", contexto_results_clean1$hogares))
-# contexto_results_clean1$hogares <- as.numeric(contexto_results_clean1$hogares)
-contexto_results_clean1$poblacion_total <- as.numeric(gsub(",", "", contexto_results_clean1$poblacion))
+table
 
-joined <- inner_join(scores_clean, contexto_results_clean1,
-                     by = c("comuna" = "municipio_o_comuna"))
 
-df <- joined %>%
-  select(departamento, comuna, score, hogares, poblacion_total)
-
-# unit.scale = function(x) (x - min(x)) / (max(x) - min(x))
-
-formatabble_df <- df %>%
-  formattable(list(hogares = color_tile("white", "orange"),
-                   poblacion_total = color_tile("#DeF7E9", "#71CA97"),
-                   #`comuna` = formatter("span", style = ~ style(color = "grey", font.weight = "bold")), 
-                   `score` = normalize_bar(color = "pink"),
-              align = c("l", "l", rep("r", NCOL(df) - 2))
-              ))
 
 
 
