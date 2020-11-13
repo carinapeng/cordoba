@@ -1,4 +1,16 @@
 
+locality1 <- readOGR("/Users/carinapeng/PAHO : WHO/cordoba/data/shapefile_new/ARG_Cordoba_UrbanRisk.shp")
+
+locality1$overall_sc <- as.numeric(locality1$overall_sc)
+
+pal1 <- colorNumeric("Blues", domain = locality1$overall_sc)
+
+labels <- sprintf(
+    "<strong>%s
+    </strong><br/>Score: %s
+    </strong><br/>%s households",
+    locality1$localidad, locality1$overall_sc, locality1$hogares
+) %>% lapply(htmltools::HTML)
 
 # Define server logic to read selected file ----
 server <- function(input, output) {
@@ -23,6 +35,20 @@ server <- function(input, output) {
             return(df)
         }
         
+    })
+    
+    output$formattable <- DT::renderDataTable({
+        as.datatable(scores_clean %>%
+                         select(departamento, comuna, score, c_sum, e_sum, m_sum) %>%
+                         formattable(
+                             col.names = c("Departamento", "Comuna", "Puntuación", "Contexto", "Epidemiologicia", "Mitigación"),
+                             list(
+                                 score = color_tile("transparent", "lightpink"),
+                                 c_sum = color_tile("transparent", "#fc8d59"),
+                                 e_sum = normalize_bar("#67a9cf"),
+                                 m_sum = color_tile("transparent", "#fc8d59"),
+                                 comuna = formatter("span", style = ~ style(color = "black", font.weight = "bold")),
+                                 align = c("l", "l", rep("r", NCOL(scores_clean) - 2)))))
     })
     
     output$mymap <- renderLeaflet(

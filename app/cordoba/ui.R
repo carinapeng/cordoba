@@ -83,6 +83,8 @@ ui <- fluidPage(
         # Main panel for displaying outputs ----
         mainPanel(
             
+            DT::dataTableOutput("formattable"),
+            
             leafletOutput(outputId = "mymap"),
             
             # Output: Data file ----
