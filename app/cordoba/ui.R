@@ -2,6 +2,7 @@
 # Load libraries
 library(tidyr)
 library(tidyverse)
+library(janitor)
 library(magrittr)
 library(dplyr)
 library(plyr)
@@ -13,22 +14,9 @@ library(knitr)
 library(incidence)
 library(leaflet)
 library(rgdal)
+library(formattable)
 options(shiny.maxRequestSize = 2650 * 1024 ^ 2)
 
-setwd("/Users/carinapeng/PAHO : WHO/cordoba")
-
-locality1 <- readOGR("/Users/carinapeng/PAHO : WHO/cordoba/data/shapefile_new/ARG_Cordoba_UrbanRisk.shp")
-
-locality1$overall_sc <- as.numeric(locality1$overall_sc)
-
-pal1 <- colorNumeric("Blues", domain = locality1$overall_sc)
-
-labels <- sprintf(
-    "<strong>%s
-    </strong><br/>Score: %s
-    </strong><br/>%s households",
-    locality1$localidad, locality1$overall_sc, locality1$hogares
-) %>% lapply(htmltools::HTML)
 
 # Define UI for data upload app ----
 ui <- fluidPage(
@@ -70,26 +58,19 @@ ui <- fluidPage(
                          selected = '"'),
             
             # Horizontal line ----
-            tags$hr(),
-            
-            # Input: Select number of rows to display ----
-            radioButtons("disp", "Display",
-                         choices = c(Head = "head",
-                                     All = "all"),
-                         selected = "head")
+            tags$hr()
             
         ),
         
         # Main panel for displaying outputs ----
         mainPanel(
-            
-            DT::dataTableOutput("formattable"),
-            
-            leafletOutput(outputId = "mymap"),
-            
-            # Output: Data file ----
-            tableOutput("contents")
-            
+            tabsetPanel(
+                tabPanel("Welcome"),
+                tabPanel("Table",
+                    DT::dataTableOutput("formattable")),
+                tabPanel("Map",
+                    leafletOutput(outputId = "mymap"))
+            )
         )
         
     )
