@@ -1,6 +1,4 @@
 
-setwd("/Users/carinapeng/PAHO : WHO/cordoba")
-
 admin2 <- readOGR("/Users/carinapeng/Downloads/CORDOBA_adm2.shp")
 locality <- readOGR("/Users/carinapeng/PAHO : WHO/cordoba/data/shapefile_new/ARG_Cordoba_UrbanRisk.shp")
 
@@ -78,15 +76,23 @@ server <- function(input, output) {
     
     
     output$formattable <- DT::renderDataTable({
-        as.datatable(df_clean() %>%
-                         select(departamento, comuna, score, c_sum, e_sum, m_sum) %>%
+        df_final <- df_clean() %>%
+            select(departamento, comuna, score, c_sum, e_sum, m_sum) %>%
+            dplyr::rename(Departamento = departamento,
+               Comuna = comuna,
+               Puntuación = score,
+               Contexto = c_sum,
+               Epidemiologicia = e_sum,
+               Mitigación = m_sum
+               )
+        as.datatable(df_final %>%
                          formattable(
-                             col.names = c("Departamento", "Comuna", "Puntuación", "Contexto", "Epidemiologicia", "Mitigación"),
+                             # col.names = c("Departamento", "Comuna", "Puntuación", "Contexto", "Epidemiologicia", "Mitigación"),
                              list(
-                                 score = color_tile("transparent", "lightpink"),
-                                 c_sum = color_tile("transparent", "#fc8d59"),
-                                 e_sum = normalize_bar("#67a9cf"),
-                                 m_sum = color_tile("transparent", "#fc8d59"),
+                                 Puntuación = color_tile("transparent", "#FA7272"),
+                                 Contexto = color_tile("transparent", "#fc8d59"),
+                                 Epidemiologicia = color_tile("transparent", "#67a9cf"),
+                                 Mitigación = color_tile("transparent", "#99d594"),
                                  align = c("l", "l", rep("r", NCOL(df_clean()) - 2)))))
     })
     

@@ -15,14 +15,17 @@ library(incidence)
 library(leaflet)
 library(rgdal)
 library(formattable)
+library(DT)
 options(shiny.maxRequestSize = 2650 * 1024 ^ 2)
+
+setwd("/Users/carinapeng/PAHO : WHO/cordoba")
 
 
 # Define UI for data upload app ----
 ui <- fluidPage(
     
     # App title ----
-    titlePanel("My Template"),
+    titlePanel("Cordoba Shiny App Version 2"),
     
     # Sidebar layout with input and output definitions ----
     sidebarLayout(
@@ -65,7 +68,8 @@ ui <- fluidPage(
         # Main panel for displaying outputs ----
         mainPanel(
             tabsetPanel(
-                tabPanel("Welcome"),
+                tabPanel("Welcome",
+                         includeMarkdown("app/welcome.md")),
                 tabPanel("Table",
                     DT::dataTableOutput("formattable")),
                 tabPanel("Map",
