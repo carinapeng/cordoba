@@ -1,20 +1,31 @@
 
+library(magrittr)
+library(dplyr)
+library(xlsx)
+library(tidyr)
 
 # Read data
-geocode <- read.csv("./app/data/geocodes.csv")
-results <- read.csv("./app/data/cordoba_results.csv")
+results <- read.xlsx("/Users/carinapeng/Downloads/results_geo.xlsx", 1)
+raw <- read.xlsx("/Users/carinapeng/Downloads/raw_geo.xlsx",1)
+
+
+# Omit rural zone (NA CODIGO)
+results_dropna <- results %>% 
+  drop_na(CODIGO)
+
+raw_dropna <- raw %>%
+  drop_na(CODIGO)
+
 # Subset to create a dataset with all contexto variables
-contexto <- results %>%
-  select(departamento, comuna, grep("contexto", names(results), value = TRUE))
+contexto <- results_dropna %>%
+  select(departamento, comuna, CODIGO, grep("contexto", names(results_dropna), value = TRUE))
 
-# Clean data
-contexto$comuna <- contexto$comuna %>%
-  trimws() %>%
-  toupper()
+# Add population and household data to contexto
+pop_house <- raw %>%
+  select(CODIGO, poblacion, hogares)
 
-# Join by geocode
-contexto_input <- contexto %>%
-  inner_join(geocode1, by = c("comuna" = "localidad"))
+contexto <- contexto %>%
+  left_join(pop_house, by = "CODIGO")
 
-saveRDS(contexto_input, file = "app/data/contexto.rds")
+saveRDS(contexto, file = "app/data/contexto.rds")
 
