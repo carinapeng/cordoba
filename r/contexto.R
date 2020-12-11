@@ -8,7 +8,6 @@ library(tidyr)
 results <- read.xlsx("/Users/carinapeng/Downloads/results_geo.xlsx", 1)
 raw <- read.xlsx("/Users/carinapeng/Downloads/raw_geo.xlsx",1)
 
-
 # Omit rural zone (NA CODIGO)
 results_dropna <- results %>% 
   drop_na(CODIGO)
@@ -28,4 +27,13 @@ contexto <- contexto %>%
   left_join(pop_house, by = "CODIGO")
 
 saveRDS(contexto, file = "app/data/contexto.rds")
+
+
+# ----------------
+
+raw_input <- raw_dropna %>%
+  select(departamento_codigo, CODIGO, grep("epidemiologia", names(raw_dropna), value = TRUE), grep("mitigacion", names(raw_dropna), value = TRUE))
+
+write.csv(raw_input, "app/data/raw_input.csv")
+
 
